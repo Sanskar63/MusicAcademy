@@ -26,7 +26,7 @@
         "slug": "advanced-vocal-techniques",
         "description": "Enhance your singing with advanced vocal techniques for intermediate to advanced learners.",
         "price": 119.99,
-        "instructor": "Emily Johnson",
+        "instructor": "Taylor Swift",
         "isFeatured": true,
         "image": "/courses/vocalist.jpg" 
       },
@@ -66,9 +66,9 @@
         "slug": "songwriting-essentials",
         "description": "Learn the essentials of songwriting to express your musical creativity.",
         "price": 159.99,
-        "instructor": "Samantha Miller",
+        "instructor": "Taylor Swift",
         "isFeatured": false,
-        "image": "/courses/song-writing.jpg"
+        "image": "/courses/vocalist.jpg"
       },
       {
         "id": 8,
@@ -78,7 +78,7 @@
         "price": 169.99,
         "instructor": "Luke Harris",
         "isFeatured": true,
-        "image": "/courses/music-prod.jpg"
+        "image": "/courses/electronic-music-prod.jpg"
       },
       {
         "id": 9,
